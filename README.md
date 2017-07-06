@@ -2,7 +2,7 @@
 
 ## Proyectos del BootCamp
 
-Proyectos realizados ddurante el BootCamp
+Proyectos realizados durante el BootCamp
 
 - [EmocioDado](https://github.com/albala5/EmocioDado)
 
